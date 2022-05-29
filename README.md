@@ -1,3 +1,3 @@
-# django-rest-framework
+# Django-rest-framework
 
 Basic rest application for creating APIs using Django
